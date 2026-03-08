@@ -8,7 +8,7 @@ const About = () => {
           <div className="col-md-6 mb-4 mb-md-0">
             <h2 className="fw-bold">About Us</h2>
             <p className="text-muted">
-              TechNova is a forward-thinking company focused on delivering
+              Xultech is a forward-thinking company focused on delivering
               innovative and efficient technology solutions to businesses
               worldwide. Our team combines creativity with technical expertise
               to produce outstanding results.

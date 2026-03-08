@@ -5,7 +5,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-3">
       <div className="container">
         <a className="navbar-brand fw-bold" href="#">
-          TechNova
+          Xultech
         </a>
         <button
           className="navbar-toggler"
